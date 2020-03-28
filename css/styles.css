@@ -1,0 +1,22 @@
+body{
+  margin:0;
+background: #400082;
+
+}
+
+img{
+  width:50%;
+  height:50%;
+  float: left;
+  padding: 20px;
+}
+
+p{
+  top: 8px;
+  left: 16px;
+  width: 40%;
+  font-size: 60px;
+  color: white;
+  float: left;
+
+}
